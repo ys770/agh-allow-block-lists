@@ -1,0 +1,201 @@
+# will be adding, editing, and removing, this is just a base
+
+@@||alltech.dev^
+
+# ubuntu updates
+@@||ubuntu.com^
+@@||canonical.com^
+@@||launchpad.net^
+@@||debian.org^
+@@||snapcraft.io^
+@@||gpg.ubuntu.com^
+@@||keyserver.ubuntu.com^
+
+# JTECHFORUMS
+@@||beacons.gcp.gvt2.com^
+@@||beacons.gvt2.com^
+@@||beacons2.gvt2.com^
+@@||beacons3.gvt2.com^
+@@||beacons4.gvt2.com^
+@@||beacons5.gvt2.com^
+@@||beacons5.gvt3.com^
+@@||cdnjs.cloudflare.com^
+@@||clients2.google.com^
+@@||content-autofill.googleapis.com^
+@@||drive.google.com^
+@@||forms.mesnan.com^
+@@||forums.jtechforums.org^
+@@||jtechforums.org^
+@@||newforum.jtechforums.org^
+@@||scontent-iad3-2.xx.fbcdn.net^
+@@||script.google.com^
+@@||ssl.gstatic.com^
+@@||unpkg.com^
+
+# GMAIL
+@@||gmail.com^
+@@||mail.google.com^
+@@||smtp.gmail.com^
+@@||imap.gmail.com^
+@@||pop.gmail.com^
+@@||accounts.google.com^
+@@||accounts.youtube.com^
+@@||ssl.gstatic.com^
+@@||www.gstatic.com^
+@@||gstatic.com^
+@@||apis.google.com^
+@@||clients.google.com^
+@@||clients1.google.com^
+@@||clients2.google.com^
+@@||notifications.google.com^
+@@||connectivitycheck.gstatic.com^
+@@||googleusercontent.com^
+@@||mail-attachment.googleusercontent.com^
+@@||lh3.googleusercontent.com^
+@@||calendar.google.com^
+@@||contacts.google.com^
+@@||admin.google.com^
+@@||workspace.google.com^
+
+# GOOGLE DRIVE
+@@||www.google.com/intl/en-US/drive/^
+@@||google.com/intl/en-US/drive/^
+@@||drive.google.com^
+@@||drivefrontend-pa.clients6.google.com^
+@@||drive-thirdparty.googleusercontent.com^
+@@||accounts.google.com^
+@@||clients6.google.com^
+@@||clients4.google.com^
+@@||apis.google.com^
+@@||lh3.googleusercontent.com^
+@@||lh3.google.com^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||www.gstatic.com^
+@@||ssl.gstatic.com^
+@@||workspace.google.com^
+@@||storage.googleapis.com^
+@@||accounts.youtube.com^
+@@||ogs.google.com
+
+# google docs
+@@||docs.google.com^
+
+# OUTLOOK ONLINE
+
+# Core Outlook domains
+@@||login.microsoftonline.com^
+@@||*.login.microsoftonline.com^
+@@||login.live.com^
+@@||*.live.com^
+@@||account.live.com^
+@@||logout.microsoftonline.com^
+@@||secure.aadcdn.microsoftonline-p.com^
+@@||aadcdn.msftauth.net^
+@@||aadcdn.msauth.net^
+@@||edge.microsoft.com^
+@@||login.microsoft.com^
+
+@@||*.outlook.com^
+@@||*.outlook.live.com^
+@@||*.mail.live.com^
+@@||*.owa.office.com^
+@@||*.office365.com^
+
+# Microsoft identity & login
+@@||*.login.live.com^
+@@||*.login.microsoftonline.com^
+@@||*.microsoftonline.com^
+@@||*.live.com^
+@@||*.windows.net^
+
+# Microsoft API and Graph
+@@||*.graph.microsoft.com^
+@@||*.office.com^
+@@||*.office365.com^
+@@||*.msocdn.com^
+@@||*.msocsp.com^
+
+# Mail & Calendar backend
+@@||*.outlook.office365.com^
+@@||*.outlook.office.com^
+@@||*.substrate.office.com^
+@@||*.nrb.footprintdns.com^
+
+# Content delivery networks and static assets
+@@||*.cdn.office.net^
+@@||*.officecdn.microsoft.com^
+@@||*.akamaized.net^
+@@||*.akamaihd.net^
+@@||*.msedge.net^
+
+# Additional dependencies (JS, API, auth tokens, etc.)
+@@||*.api.office.com^
+@@||*.sfx.ms^
+@@||*.edge.microsoft.com^
+@@||*.microsoft.com^
+
+@@||resources.office.net^
+@@||*.resources.office.net^
+
+
+# onedrive
+# OneDrive basic endpoints
+@@||*.onedrive.com^
+@@||*.onedrive.live.com^
+@@||*.1drv.com^
+@@||*.1drv.ms^
+
+# Core Microsoft/JWT authentication & identity
+@@||*.live.com^
+@@||*.live.net^
+@@||*.login.live.com^
+@@||*.login.windows.net^
+@@||*.login.microsoftonline.com^
+
+# Microsoft and Office service dependencies
+@@||*.office.com^
+@@||*.officeapps.live.com^
+@@||*.microsoft.com^
+@@||*.azureedge.net^
+@@||*.servicebus.windows.net^
+
+# SoM/Telemetry & Crash Reporting
+@@||*.vortex.data.microsoft.com^
+@@||*.aria.microsoft.com^
+@@||*.crashlytics.com^
+@@||*.fabric.io^
+
+# CDN and static content
+@@||*.cdn.office.net^
+@@||*.akamaihd.net^
+@@||*.akamaized.net^
+@@||*.msedge.net^
+
+# OneDrive-specific storage and API
+@@||*.storage.live.com^
+@@||*.livefilestore.com^
+@@||*.files.1drv.com^
+@@||*.api.live.net^
+@@||*.apis.live.net^
+@@||*.res-*.cdn.office.net^
+
+# Share and collaboration
+@@||*.photos.live.com^
+@@||*.skydrive.live.com^
+@@||*.favorites.live.com^
+@@||*.groups.photos.live.com^
+@@||*.groups.office.live.com^
+
+# Deep service links
+@@||*.oauth.live.com^
+@@||*.skyapi.live.net^
+@@||*.snapi.live.net^
+@@||*.policies.live.net^
+@@||*.settings.live.net^
+
+@@||1drvf.ms^
+
+@@||microsoftpersonalcontent.com^
+@@||*.microsoftpersonalcontent.com^
+
